@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+0x0FD+%F0%9F%91%8B;Professional+Goofball+%2B+Code+Monkey+%F0%9F%90%92;I+break+things+so+you+don%27t+have+to+%F0%9F%94%A5;Here+to+vibe%2C+code%2C+%26+cause+chaos+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+0x0FD+%F0%9F%91%8B;Professional+Goofball;I+break+things+so+you+don%27t+have+to+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@ class Developer:
         self.current_mood = "chaotic neutral 😈"
 
     def say_hi(self):
-        print("Thanks for stopping by! Don't forget to ⭐ stuff!")
+        print("Thanks for stopping by! Don't forget to check my stuff!")
 
 me = Developer()
 me.say_hi()
@@ -72,29 +72,8 @@ me.say_hi()
 
 ---
 
-## 🏆 Trophy Case
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=0x0FD&theme=radical&no-frame=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Snakin' Through Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/0x0FD/0x0FD/output/github-contribution-grid-snake-dark.svg)
-
-> ⚠️ *To enable the snake, follow [this guide](https://github.com/Platane/snk) and set up the GitHub Action.*
-
-</div>
-
----
-
-## 😂 Random Dev Joke (refreshes daily!)
+## Today's JOKEEE
 
 <div align="center">
 
@@ -102,25 +81,3 @@ me.say_hi()
 
 </div>
 
----
-
-## 💬 Vibe Check
-
-<div align="center">
-
-> *"Why do programmers prefer dark mode?"*
-> **Because light attracts bugs. 🪲**
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Cause Some Chaos Together
-
-*Drop a ⭐ on anything cool, open an issue, or just come say hi!*
-
-**Made with 🎮 chaos, ☕ caffeine, and way too much free time**
-
-</div>
