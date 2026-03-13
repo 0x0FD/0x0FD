@@ -14,7 +14,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-## 🤙 Who is this guy?
+## whoami
 
 ```python
 class Developer:
@@ -40,7 +40,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ My Weapons of Choice
+## My toolbox
 
 <div align="center">
 
@@ -55,7 +55,7 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## My Stats
 
 <div align="center">
 
