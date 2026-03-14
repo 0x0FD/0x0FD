@@ -17,17 +17,16 @@
 class Developer:
     def __init__(self):
         self.username    = "0x0FD"
-        self.role        = "Professional Goofball 🃏"
-        self.languages   = ["Python 🐍", "C# ⚡", "HTML 🌐"]
+        self.role        = "Professional Goofball"
+        self.languages   = ["Python", "C#", "HTML"]
         self.hobbies     = [
             "goofing around",
             "having fun while coding",
             "turning coffee → bugs → features",
         ]
-        self.current_mood = "chaotic neutral 😈"
 
     def say_hi(self):
-        print("Thanks for stopping by! Don't forget to check my stuff!")
+        print("Thanks for visiting! Don't forget to check my stuff!")
 
 me = Developer()
 me.say_hi()
