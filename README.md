@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=Hey+there%2C+I%27m+0x0FD+%F0%9F%91%8B;Professional+Goofball;I+break+things+so+you+don%27t+have+to+%F0%9F%94%A5)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&pause=1000&color=E4F7A2&center=true&vCenter=true&width=435&lines=I'm+0x0FD!;I+like+coding+open+source+utilities)](https://git.io/typing-svg)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0x0FD&color=F7B731&style=for-the-badge&label=VISITORS)
