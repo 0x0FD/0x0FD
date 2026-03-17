@@ -18,14 +18,17 @@ class Developer:
         self.username    = "0x0FD"
         self.role        = "Professional Goofball"
         self.languages   = ["Python", "C#", "HTML"]
+        self.cortisol    = "high high"
+        self.seriousness = "low low"
+        self.autism      = "TREE(69) × 10¹⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰⁰"
         self.hobbies     = [
             "goofing around",
             "having fun while coding",
             "turning coffee → bugs → features",
         ]
 
-    def say_hi(self):
-        print("Thanks for visiting! Don't forget to check my stuff!")
+    def greet_viewerers(self):
+        print("hai there! check my stuff!")
 
 me = Developer()
 me.say_hi()
@@ -35,8 +38,7 @@ me.say_hi()
 
 ---
 
-## My toolbox
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&pause=1000&color=E4F7A2&center=true&vCenter=true&repeat=false&width=435&lines=thingies+i+use)](https://git.io/typing-svg)
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
@@ -50,7 +52,7 @@ me.say_hi()
 
 ---
 
-## My Stats
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&pause=1000&color=E4F7A2&center=true&vCenter=true&repeat=false&width=435&lines=high+cortisol+stats)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -64,15 +66,3 @@ me.say_hi()
 ![GitHub Streak](https://streak-stats.demolab.com?user=0x0FD&theme=radical&hide_border=true&background=0d1117&ring=F7B731&fire=F7B731&currStreakLabel=F7B731)
 
 </div>
-
----
-
-
-## Today's JOKEEE
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0d1117&textColor=F7B731&questionColor=ffffff&answerColor=a9b1d6&borderColor=F7B731)
-
-</div>
-
